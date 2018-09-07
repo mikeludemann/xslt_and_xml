@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<info>
+		<firstName>
+			Bonnie
+		</firstName>
+		<lastName>
+			Herz
+		</lastName>
+        <budget>
+            10000.00
+        </budget>
+	</info>
+	<info>
+		<firstName>
+			Norbert
+		</firstName>
+		<lastName>
+			Bauer
+		</lastName>
+        <budget>
+            301.53
+        </budget>
+	</info>
+	<info>
+		<firstName>
+			Mario
+		</firstName>
+		<lastName>
+			Ton
+		</lastName>
+        <budget>
+            2105.32
+        </budget>
+	</info>
+	<info>
+		<firstName>
+			Tom
+		</firstName>
+		<lastName>
+			Müller
+		</lastName>
+        <budget>
+            1030.09
+        </budget>
+	</info>
+</person>
